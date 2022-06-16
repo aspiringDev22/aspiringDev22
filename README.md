@@ -1,13 +1,11 @@
+
+<img src = "https://images.pexels.com/photos/11191305/pexels-photo-11191305.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2">
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/anirudhs_22" target="blank"><img src="https://img.shields.io/twitter/follow/anirudhs_22?logo=twitter&style=for-the-badge" alt="anirudhs_22" /></a> </p>
-
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **MERN stack development**
 
 - 👯 I’m looking to collaborate on **front end development**
-
-- 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **anirudhs00.22@gmail.com**
 

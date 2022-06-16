@@ -1,5 +1,4 @@
 
-<img src = "https://images.pexels.com/photos/11191305/pexels-photo-11191305.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" height="40" width="60">
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 

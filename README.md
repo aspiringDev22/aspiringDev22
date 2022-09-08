@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **MERN stack development**
-
-- 👯 I’m looking to collaborate on **front end development**
-
+- 🌱 I’m currently learning FRONTEND Development
+- 👯 I’m looking to collaborate on **Front End projects**
+- 😄 I'm looking to help with any javaScript and React projects
 - 📫 How to reach me **anirudhs00.22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

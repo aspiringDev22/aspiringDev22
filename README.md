@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m a JavaScript and React Developer.
+- 🌱 I’m a Frontend Focused Developer.
 - 👯 I’m looking to collaborate on **Front End projects**
 - 📫 How to reach me **anirudhs00.22@gmail.com**
 
